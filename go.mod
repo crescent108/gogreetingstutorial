@@ -1,3 +1,3 @@
-module crescent108/gogreetingstutorial
+module go.odeo.com.au/greetings
 
 go 1.24

@@ -10,7 +10,7 @@ import (
 func Hello(name string) (string, error) {
 	// If no name was given, return an error with a message.
 	if name == "" {
-		return name, errors.New("empty name")
+		return name, errors.New("Empty name")
 	}
 
 	// Create a message using a random format.
